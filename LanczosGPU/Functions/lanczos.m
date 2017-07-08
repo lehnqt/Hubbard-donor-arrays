@@ -9,7 +9,7 @@ wg=cell(1,ne);
 
 D_up=length(H_up);
 D_down=length(H_down);
-%fix CUDA bug
+
 if D_up==1
     H_up=full(H_up);
     for j=1:N_sites
