@@ -1,6 +1,6 @@
 function [Eg,wg]=lanczos(H_up,H_down,n_up,n_down,ns_up,ns_down)
 ne=1;
-m=15;
+m=25;
 
 N_sites=length(n_up);
 
