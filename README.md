@@ -2,9 +2,9 @@ Matlab codes for the exact diagonalisation of an extended Hubbard model and comp
 
 Details of the subfolders:
 
-1. EigsMatlab: use the Matlab built-in eigs function for diagonalisation (suitable for arrays with less than 12 sites).
+1. EigsMatlab: functions that use the Matlab built-in eigs function for diagonalisation (suitable for arrays with less than 12 sites).
 
-2. LanczosGPU: use Lanczos algorithm run on a GPU for diagonalisation (for arrays with up to 16 sites).
+2. LanczosGPU: functions that use the Lanczos algorithm run on a GPU for diagonalisation (for arrays with up to 16 sites).
 
 3. HartreeFock: The ground state at half-filling is obtained by the Hartree-Fock mean field calculation (for large two dimensional arrays).
 
