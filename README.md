@@ -10,4 +10,4 @@ Details of the subfolders:
 
 4. HoleHubbard: The ground state near half-filling is obtained by the hole-hubbard approximation described in the Appendix of the paper (for large two dimensional arrays).
 
-Please contact Nguyen H. Le at hl0018 at surrey.ac.uk for more details.
+Please contact Nguyen H. Le at H.Le at surrey.ac.uk for more details.
